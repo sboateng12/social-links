@@ -19,7 +19,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](![alt text](img.png))
+![alt text](img.png)
 
 ### Links
 
